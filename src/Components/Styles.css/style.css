@@ -1,0 +1,16 @@
+.info{
+    display: flex;
+    flex: 1 1;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 10px;
+}
+
+.info p{
+    display: flex;
+    flex-direction: column;
+}
+
+.iconFont{
+    filter: drop-shadow(1px 3px 2px black);
+}
